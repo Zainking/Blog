@@ -1,6 +1,26 @@
 # Blog
-使用 Github issues 创建的中文博客  
-新开启的 issue 会被关闭，如想要讨论请在 issue 下面评论
+使用 Github
+<ruby>
+  讨论
+  <rp>(</rp><rt>issues</rt><rp>)</rp>
+</ruby>
+功能创建的中文博客    
+
+__新开启的
+<ruby>
+  讨论
+  <rp>(</rp><rt>issues</rt><rp>)</rp>
+</ruby>
+会被关闭，如想要讨论请在
+<ruby>
+  讨论
+  <rp>(</rp><rt>issues</rt><rp>)</rp>
+</ruby>
+下面发表
+<ruby>
+  评论
+  <rp>(</rp><rt>comment</rt><rp>)</rp>
+</ruby>__
 
 [查看博文列表](https://github.com/Zainking/Blog/issues)
 

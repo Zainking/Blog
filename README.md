@@ -19,4 +19,4 @@ __新开启的
 
 [查看博文列表](https://github.com/Zainking/Blog/issues)
 
-[关于我](https://zain.red)
+[关于我](https://www.wangziyi.site/)
